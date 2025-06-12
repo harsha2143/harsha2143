@@ -3,9 +3,13 @@
 
 
 **A Passionate Full Stack Developer** with expertise in modern web technologies, competitive programming and machine learning. Dedicated to building scalable applications and exploring innovative solutions to complex technical challenges.
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,21262D,30363D&height=150&section=header&text=Harshavardhan%20Saripalli&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
 </div>
+-->
+
+<img src="Bg.png" alt="Harshavardhan">
 
 🔭 I’m currently working on  
 • Enhancing **CodeQuest** with advanced user analytics and multi-platform integration.  
