@@ -2,7 +2,7 @@
 ## Hi there! 👋 I'm Harshavardhan Saripalli  
 
 
-**Passionate Full Stack Developer** with expertise in modern web technologies, competitive programming and machine learning. Dedicated to building scalable applications and exploring innovative solutions to complex technical challenges.
+**A Passionate Full Stack Developer** with expertise in modern web technologies, competitive programming and machine learning. Dedicated to building scalable applications and exploring innovative solutions to complex technical challenges.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,21262D,30363D&height=150&section=header&text=Harshavardhan%20Saripalli&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
 </div>
