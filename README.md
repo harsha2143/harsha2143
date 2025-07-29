@@ -71,7 +71,9 @@
 # 📊 GitHub Stats
 
   
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=harsha2143&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=081220&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" /><br>
+<!---  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=harsha2143&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=081220&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" /><br>
+--->
+![](https://github-readme-stats.vercel.app/api?username=harsha2143&theme=github-dark-blue&bg_color=081220&text_color=C9D1D9&title_color=58A6FF&hide_border=false&icon_color=58A6FF&include_all_commits=false&count_private=true)<br/>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=harsha2143&theme=github-dark-blue&background=081220&stroke=30363D&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9)<br/>
 
